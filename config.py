@@ -1,0 +1,2 @@
+tg_token='6278668005:AAGv93T7vyyG7LtQLroaTVPV4Flr5SMb_2M'
+openai_token = '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'
